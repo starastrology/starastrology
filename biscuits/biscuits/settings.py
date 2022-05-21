@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '6yvzw+6saple0r3y=^f0b+%o73sgi@wo8(l=gzw$44j84asqa$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['starastrology.org', '3.139.91.10']
 
