@@ -1,0 +1,21 @@
+1. Big text - 50
+2. Med text - 40
+3. Med text - 25
+4. Small text - 16
+
+Main text and background colours:
+
+White -  #FFFFFF
+Black -  #000000
+
+
+selector{ 
+    width: 800px;
+    height: 200px; 
+}
+
+#A600FF
+#6EC1E4
+#54595F
+
+text-underline-width: 2px;
